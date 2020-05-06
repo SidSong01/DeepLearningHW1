@@ -10,7 +10,30 @@ for dataSet.py, it is for getting the training data, save as TFRecords.
 
 for wgan.py, it is the WGAN model.
 
+Total data number 	5000
+
+Batch size	64
+
+Noise size	128
+
+Iterations	35000
+
+Learning rate	0.00005
+
+
+
 for dcgan.py, it is the DCGAN model.
+
+Total data number 	5000
+
+Batch size	64
+
+Noise size	128
+
+Iterations	10000
+
+Learning rate	0.0002
+
 
 TFR foder is the training data.
 
