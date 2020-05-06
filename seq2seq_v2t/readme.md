@@ -4,6 +4,8 @@ tensorflow 1.15
 
 python 3.6
 
+the training data: https://drive.google.com/open?id=1sSFbOU928jYp1xGx4PF4_hV8_w2kDQ-j
+
 how to run the .sh:
 
 Hw2_seq2seq.sh _ _ _
