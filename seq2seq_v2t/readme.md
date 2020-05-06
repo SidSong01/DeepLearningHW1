@@ -3,7 +3,7 @@
 ## Version
 
 * Python 3.6.0
-* Tensorflow 1.6.0
+* Tensorflow 1.15
 
 
 
