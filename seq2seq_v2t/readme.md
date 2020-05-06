@@ -21,7 +21,7 @@ from colors import *
 from tqdm import *
 ```
 
-# the training data: https://drive.google.com/open?id=1sSFbOU928jYp1xGx4PF4_hV8_w2kDQ-j
+## the training data: https://drive.google.com/open?id=1sSFbOU928jYp1xGx4PF4_hV8_w2kDQ-j
 
 how to run the .sh:
 
@@ -32,9 +32,13 @@ the name of the output(.txt) = final_output.txt)
 
 please read my .sh file
 
-
-# reference: http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf
+## results
 
 the bleu score is about 0.7
 
-detailed description please refer to the pdf report, thanks
+## reference
+
+the original paper, **[1] S. Venugopalan, M. Rohrbach, R. Mooney, T. Darrell, and K. Saenko. Sequence to sequence video to text. In Proc. ICCV, 2015**, please click the link : [http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf](http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf)
+
+
+### detailed description please refer to the pdf report, thanks
