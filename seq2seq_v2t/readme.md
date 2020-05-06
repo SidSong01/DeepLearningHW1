@@ -26,16 +26,15 @@ from tqdm import *
 ## how to run the .sh:
 
 ```
-Hw2_seq2seq.sh _ _ _
+$ Hw2_seq2seq.sh _ _ _
 ```
-#### (•	_ _ _ here represent "the data directory", "the test data directory", "and the name of the output(.txt)"
-the name of the output(.txt) = final_output.txt)
+#### (•	_ _ _ here represent "the data directory", "the test data directory", "and the name of the output(.txt)" the name of the output(.txt) = final_output.txt)
 
 please read my .sh file
 
 ## results
 
-the bleu score is about 0.7
+the BLEU score is above 0.7.
 
 ## reference
 
