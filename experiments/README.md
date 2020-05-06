@@ -1,11 +1,8 @@
-# DeepLearningHW
-Student Name: Lingyi Song
-Major: Automotive Engineering, Master
-This is for the homework from cpsc 8810 DeepLearning at Clemson University, Spring2020
+# DeepLearning experiments
+emai: lingyi.s@outlook.com
 
-For the running of the .pynb files, they are what their names indicates. And you can check the .ipynb for all the processes and results in the jupyter hub.
-For rerunning the files, just run all the cells one by one, and then you will see all the results in the report.
+interesting experiments with tensorflow 1.15 and python 3.6
 
-For the folder named python_files, the .py files of all the codes are in it.
+detailed contents pelease refer to the report
 
 Thank you very much and have a nice day! :)
