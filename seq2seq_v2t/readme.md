@@ -27,9 +27,9 @@ from tqdm import *
 
 ```
 Hw2_seq2seq.sh _ _ _
-(•	_ _ _ here represent "the data directory", "the test data directory", "and the name of the output(.txt)"
-the name of the output(.txt) = final_output.txt)
 ```
+#### (•	_ _ _ here represent "the data directory", "the test data directory", "and the name of the output(.txt)"
+the name of the output(.txt) = final_output.txt)
 
 please read my .sh file
 
