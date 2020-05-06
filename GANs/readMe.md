@@ -1,4 +1,4 @@
-# this project is using the car pictures in cifar10 dataset to build DCGAN and WGAN for generating car pictures.
+## this project is using the car pictures in cifar10 dataset to build DCGAN and WGAN for generating car pictures.
 email: lingyi.s@outlook.com
 
 tensorflow 1.15
