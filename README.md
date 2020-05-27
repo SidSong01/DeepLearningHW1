@@ -1,7 +1,9 @@
 # Fundamental DeepLearning projects with tensorflow
 
-Please see the 
+Please see the
+
 `experiments report.pdf`
+
 for details.
 
 :)
